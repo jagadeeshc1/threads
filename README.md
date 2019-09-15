@@ -7,3 +7,4 @@ To understand various concepts related to Java Multi-threading such as
 5. Synchronized Keyword
 6. Deadlocks
 7. Reentrant lock
+8. wait notify (code for this is picked as is from https://www.udemy.com/java-multithreading-concurrency-performance-optimization)
